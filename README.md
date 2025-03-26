@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Noof Abdul Raheem A P
 
-**AI/ML Developer | Data Analyst | Full-Stack Engineer | Tech Educator**
+**AI/ML Developer | Data Analyst | Data Science | Power BI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/noof-abdul-raheem-ap)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:nbrnoof9097@gmail.com)
@@ -60,9 +60,7 @@
 ---
 
 ## 💡 Currently Working On
-- Developing an AI-powered study assistant
-- Creating MERN stack tutorials for beginners
-- Building a community for women in tech (SheHike initiative)
+- Developing an AI-powered  VOICE DISTRESS DETECTION
 
 ---
 
