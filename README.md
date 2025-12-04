@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/noof-abdul-raheem-ap)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:nbrnoof9097@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-noofabdul.tech-9cf?style=flat-square)](https://noofabdul.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-noofabdul.tech-9cf?style=flat-square)](https://nbr9097.github.io/MyPortfolio/)
 
 ---
 
@@ -126,4 +126,4 @@ Open to:
 
 📩 **Email:** nbrnoof9097@gmail.com  
 🔗 **LinkedIn:** linkedin.com/in/noof-abdul-raheem-ap  
-🌐 **Portfolio:** https://noofabdul.tech
+🌐 **Portfolio:** https://nbr9097.github.io/MyPortfolio/
