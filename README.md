@@ -1,83 +1,129 @@
-# 👋 Hi, I'm Noof Abdul Raheem A P
+# 👋 Hi, I'm **Noof Abdul Raheem A P**
 
-**AI/ML Developer | Data Analyst | Data Science | Power BI**
+**Software Engineer Intern (Flutter) | AI/ML Enthusiast | Data Analyst | Founder of Evolvates**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/noof-abdul-raheem-ap)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:nbrnoof9097@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=flat-square)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-noofabdul.tech-9cf?style=flat-square)](https://noofabdul.tech)
+
+---
+
+## 🚀 About Me
+
+I’m a **Software Engineer Intern at Aufait Technologies**, building responsive, high-performance Flutter mobile applications.  
+I recently completed my **Master’s in Computer Science** and have foundations in **AI/ML, Data Analytics, and UI/UX design**.
+
+I'm the **Founder & CEO of Evolvates**, a student-led initiative empowering learners through mentorship and real-world projects.
+
+I enjoy building **mobile-first solutions**, solving real-world challenges, and working on projects that create social impact.
 
 ---
 
 ## 🛠 Technical Skills
 
-**Languages & Frameworks**  
+### **Mobile Development**
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
+### **AI/ML & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+### **Frameworks & Tools**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-**Data & Cloud**  
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+### **Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 
 ---
 
-## 🏆 Featured Projects
+## 🌟 Featured Projects
 
-### 1. Nannavado - Emotion Recognition System
+### 🔐 **SHEild — Voice-Based Distress Detection System**  
+🚀 *Latest Major Project*  
+[![GitHub](https://img.shields.io/badge/View_Code-GitHub-black?logo=github)](https://github.com/nbr9097/SHEild-app)
+
+- Detects **distress, shouting, and screams** using audio  
+- Built for **women’s safety & real-time alerting**  
+- Uses emotional speech datasets (CREMA-D, RAVDESS, TESS, BERSt)  
+- Includes feature extraction, emotion classification & live prediction  
+
+---
+
+### 😊 **Nannavado — Emotion Recognition System**  
 [![GitHub](https://img.shields.io/badge/View_Code-GitHub-black?logo=github)](https://github.com/nbr9097/nannavado)
-- Facial emotion prediction with 85% accuracy
-- MERN stack + TensorFlow.js implementation
-- Winner at TinkerHub Hackathon
 
-### 2. LoanStatus Predictor
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-black?logo=github)](https://github.com/nbr9097/LoanStatus)
-- Automated loan approval system (82.27% accuracy)
-- Random Forest + GridSearchCV implementation
-- Featured in College Tech Symposium
-
-### 3. Customer Churn Prediction
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-black?logo=github)](https://github.com/nbr9097/Customer_Churn_Prediction)
-- Telecom customer retention model (82.51% accuracy)
-- Ensemble methods (Gradient Boosting + AdaBoost)
-- Improved data processing by 20%
+- Facial emotion detection using ML + MERN stack  
+- Winner at TinkerHub “Useless Projects” Hackathon  
+- Live App: https://nannavado.netlify.app/
 
 ---
 
-## 📈 GitHub Stats
+### 💳 **LoanStatus Predictor**  
+[![GitHub](https://img.shields.io/badge/View_Code-GitHub-black?logo=github)](https://github.com/nbr9097/LoanStatus)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbr9097&show_icons=true&theme=radical&count_private=true)
+- Loan eligibility prediction with **82.27% accuracy**  
+- Random Forest + GridSearchCV  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbr9097&layout=compact&theme=radical)
+---
+
+### 📉 **Customer Churn Prediction**  
+[![GitHub](https://img.shields.io/badge/View_Code-GitHub-black?logo=github)](https://github.com/nbr9097/Customer_Churn_Prediction)
+
+- Churn prediction using **ensemble learning**  
+- Achieved **82.51% accuracy**
+
+---
+
+## 📊 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbr9097&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbr9097&layout=compact&theme=tokyonight)
+
+---
+
+## 💼 Experience Snapshot
+
+- 🧑‍💻 **Software Engineer Intern — Aufait Technologies**  
+- 🚀 **Founder & CEO — Evolvates**  
+- 🎓 **Academic Tutor — Interval** (3× Best Tutor nominations)  
+- 🖥️ **AI/ML Intern — ICTAK**  
 
 ---
 
 ## 💡 Currently Working On
-- Developing an AI-powered  VOICE DISTRESS DETECTION
+ 
+- 📱 Advanced Flutter & mobile app architecture  
+- 📊 Power BI dashboards & interactive analytics  
 
 ---
 
-## ✨ Fun Facts
-- 🏆 3x Best Tutor Award winner at Interval
-- 🎓 Mentored 50+ students with 90% satisfaction rate
-- 🚀 Founder of Evolvates student initiative
-- 🏸 State-level badminton player
+## 🏆 Achievements & Fun Facts
+
+- 🏆 Multiple AI/ML project wins  
+- 👩‍🏫 Mentored **50+ students** with 90% satisfaction  
+- 🌐 Led **SheHike Initiative**, impacting 100+ women  
+- 🏅 NCC Senior Under Officer & **Best Guard Commander**  
+- 🏸 State-level badminton player  
+- 🎨 Freelance Graphic Designer for 1+ year  
 
 ---
 
-## 📫 Let's Collaborate!
-I'm always open to:
-- AI/ML research collaborations
-- Data analysis projects
-- Tech community initiatives
-- Mentoring opportunities
+## 🤝 Let’s Collaborate!
 
-[![Email](https://img.shields.io/badge/Email-nbrnoof9097@gmail.com-red?style=flat-square&logo=gmail)](mailto:nbrnoof9097@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-blue?style=flat-square&logo=twitter)](https://twitter.com/YourHandle) <!-- Replace if applicable -->
+Open to:
+- Flutter development  
+- AI/ML research  
+- Data analytics projects  
+- Tech community initiatives  
+- Mentorship opportunities  
+
+📩 **Email:** nbrnoof9097@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/noof-abdul-raheem-ap  
+🌐 **Portfolio:** https://noofabdul.tech
